@@ -1,0 +1,8 @@
+" ParentFont="False" Text="[dsDetalhe.&#34;bdCTAINADATA&#34;]"/>
+      <TfrxMemoView Name="Memo4" Left="285,07885" Top="0" Width="11,33858512" Height="15,11812" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="-16777208" Font.Height="-11" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="[dsDetalhe.&#34;bdCTATIP&#34;]"/>
+      <TfrxMemoView Name="Memo9" Align="baWidth" Left="296,41743512" Top="0" Width="342,32322276" Height="15,11812" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="-16777208" Font.Height="-11" Font.Name="Arial" Font.Style="0" ParentFont="False" Text="[dsDetalhe.&#34;bdCTANOM&#34;]"/>
+      <TfrxMemoView Name="Memo15" Left="39,77953" Top="14,89765" Width="672,75622772" Height="15,11812" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="-16777208" Font.Height="-9" Font.Name="Arial" Font.Style="0" ParentFont="False" Text="[dsDetalhe.&#34;bdDESCRICAO&#34;]"/>
+    </TfrxMasterData>
+    <TfrxGroupFooter Name="GroupFooterPri" Height="3,77953" Left="0" Top="226,7718" Width="782,36271"/>
+    <TfrxPageFooter Name="Rodape" Height="52,91342" Left="0" Top="291,02381" Width="782,36271">
+      <TfrxMemoView Name="Sistema" Align="baRight" Left="495,11843" Top="4,11812" Width="287,24428" Height="15,11812" DataSet="frxUserDataSet" DataSetName="Parâmetros" Font.Charset="1" Font.Color="0" Font.Height="-11"

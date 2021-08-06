@@ -1,0 +1,8 @@
+" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="6" ParentFont="False" Text=""/>
+      <TfrxMemoView Name="Memo22" Left="24,11812" Top="37,59048039" Width="18,8976378" Height="18,89765" Visible="False" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="9" ParentFont="False" Text=""/>
+      <TfrxMemoView Name="Memo23" Left="307,58287" Top="33,81095039" Width="18,8976378" Height="18,89765" Visible="False" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="10" ParentFont="False" Text=""/>
+      <TfrxMemoView Name="Memo24" Left="129,94496" Top="0" Width="90,70872" Height="18,89765" Visible="False" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="0" Font.Height="-11" Font.Name="Arial" Font.Style="0" ParentFont="False" Text="Carimbo do orgão"/>
+    </TfrxChild>
+    <TfrxChild Name="chEspacoExtraEncerramentoPaisagem" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="0" Left="0" Top="393,07112" Width="1031,81169" OnBeforePrint="chEspacoExtraEncerramentoPaisagemOnBeforePrint" Child="chAssinaturaPadraoEncerramentoPaisagem"/>
+    <TfrxChild Name="chAssinaturaPadraoEncerramentoPaisagem" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="18,8976378" Left="0" Top="415,7483" Width="1031,81169">
+      <TfrxSubreport Name="Subreport4" Align="baWidth" Left="
